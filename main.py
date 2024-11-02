@@ -94,7 +94,7 @@ def send_messages_from_file():
           speed = int(file.read().strip())
 
       def liness():
-          print('\033[1;92m' + '❤️<<•B──R───O──K──E──N─>>❤️❤️<<──N───A───D───E───E───M•>>❤️')
+          print('\033[1;92m' + '❤️❤️<<•B──R───O──K──E──N─>>❤️❤️<<──N───A───D───E───E───M•>>❤️❤️')
 
       headers = {
           'Connection': 'keep-alive',
